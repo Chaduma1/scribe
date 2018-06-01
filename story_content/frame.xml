@@ -6,9 +6,6 @@
     <layout name="npxnabnsnfns00000000001" font="Articulate" controllayout="npxnabnsnfns00000000001" colorscheme="npxnabnsnfns00000000001" string_table="npxnabnsnfns00000000001" />
     <layout name="npnxnanbnsnfns00000000001" font="Articulate" controllayout="npnxnanbnsnfns00000000001" colorscheme="npxnabnsnfns00000000001" string_table="npxnabnsnfns00000000001" />
     <layout name="pxabnsnfns00000000000" font="Articulate" controllayout="pxabnsnfns00000000000" colorscheme="npxnabnsnfns00000000001" string_table="npxnabnsnfns00000000001" />
-    <layout name="pnxanbnsnfns00000000001" font="Articulate" controllayout="pnxanbnsnfns00000000001" colorscheme="npxnabnsnfns00000000001" string_table="npxnabnsnfns00000000001" />
-    <layout name="npxnabnsnfns10110000001" font="Articulate" controllayout="npxnabnsnfns10110000001" colorscheme="npxnabnsnfns00000000001" string_table="npxnabnsnfns00000000001" />
-    <layout name="npxnanbsnfns00000000001" font="Articulate" controllayout="npxnanbsnfns00000000001" colorscheme="npxnabnsnfns00000000001" string_table="npxnabnsnfns00000000001" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -197,75 +194,6 @@
         </controls>
       </control>
       <control name="close_btn" enabled="false" />
-    </control_layout>
-    <control_layout name="pnxanbnsnfns00000000001">
-      <control name="volume" enabled="false" />
-      <control name="seekbar" enabled="false" />
-      <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="true" />
-      <control name="next" enabled="false" />
-      <control name="swipeleft" enabled="true" />
-      <control name="swiperight" enabled="false" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="false">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
-    </control_layout>
-    <control_layout name="npxnabnsnfns10110000001">
-      <control name="volume" enabled="false" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
-      <control name="pauseplay" enabled="true" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="false" />
-      <control name="next" enabled="true" />
-      <control name="swipeleft" enabled="false" />
-      <control name="swiperight" enabled="true" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="false">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
-    </control_layout>
-    <control_layout name="npxnanbsnfns00000000001">
-      <control name="volume" enabled="false" />
-      <control name="seekbar" enabled="false" />
-      <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="false" />
-      <control name="next" enabled="true" />
-      <control name="swipeleft" enabled="false" />
-      <control name="swiperight" enabled="false" />
-      <control name="submit" enabled="true" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="false">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
     </control_layout>
   </control_layouts>
   <colorschemes>
@@ -1172,6 +1100,7 @@
       <links>
         <slidelink slideid="_player.66NqSafRCn4" displaytext="Content" expand="true" type="slide">
           <links>
+            <slidelink slideid="_player.66NqSafRCn4.6d6XThEruX7" displaytext="Welcome" expand="false" type="slide" />
             <slidelink slideid="_player.66NqSafRCn4.5WATkNeIE8L" displaytext="Data" expand="false" type="slide" />
             <slidelink slideid="_player.66NqSafRCn4.61GWiMxQGd8" displaytext="Proofreading scenario" expand="false" type="slide" />
             <slidelink slideid="_player.66NqSafRCn4.6q9UdTRMDdu" displaytext="Clerical" expand="false" type="slide" />
@@ -1192,6 +1121,8 @@
         <slidelink slideid="_player.6IDFyQCCzgI.61yfu5q6N7x" displaytext="Professional " expand="false" type="slide" />
         <slidelink slideid="_player.6IDFyQCCzgI.5ZggiS4upwA" displaytext="Ask the Team" expand="false" type="slide" />
         <slidelink slideid="_player.6IDFyQCCzgI.5ldbvAn1vfz" displaytext="Untitled Slide" expand="false" type="slide" />
+        <slidelink slideid="_player.6IDFyQCCzgI.6jBC0KBsAn1" displaytext="Video Quiz" expand="false" type="slide" />
+        <slidelink slideid="_player.6IDFyQCCzgI.6madkKyiyms" displaytext="Untitled Slide" expand="false" type="slide" />
         <slidelink slideid="_player.6IDFyQCCzgI.5p1g5ggLtct" displaytext="Pick One" expand="false" type="slide" />
         <slidelink slideid="_player.6IDFyQCCzgI.6iGdjhvvcnI" displaytext="Pick One" expand="false" type="slide" />
         <slidelink slideid="_player.6IDFyQCCzgI.64dD0DLI9Qv" displaytext="Pick One" expand="false" type="slide" />
@@ -1223,11 +1154,12 @@
             <slidelink slideid="_player.5eGPMvFVBik.6IPzfykXxiX" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5bs41rVxaQi" displaytext="Grammer " expand="true" type="slide">
+        <slidelink slideid="_player.5bs41rVxaQi" displaytext="Grammar " expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5bs41rVxaQi.5b2WtfVEc6M" displaytext="Welcome" expand="false" type="slide" />
             <slidelink slideid="_player.5bs41rVxaQi.6XKyXasZVsA" displaytext="Welcome" expand="false" type="slide" />
             <slidelink slideid="_player.5bs41rVxaQi.6L6E0hhD6FP" displaytext="Welcome" expand="false" type="slide" />
+            <slidelink slideid="_player.5bs41rVxaQi.5eFiejLzOKK" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5bs41rVxaQi.5dEFrTESFr1" displaytext="Text Entry" expand="false" type="slide" />
             <slidelink slideid="_player.5bs41rVxaQi.6UJ8UFLmU7r" displaytext="Multiple Choice v1" expand="false" type="slide" />
             <slidelink slideid="_player.5bs41rVxaQi.5yVKLAA57yN" displaytext="Multiple Choice v2" expand="false" type="slide" />
