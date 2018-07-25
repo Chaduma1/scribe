@@ -74,7 +74,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="true" />
+          <option name="bottombar_enabled" value="false" />
         </options>
       </optiongroup>
     </optiongroups>
@@ -1085,11 +1085,6 @@
     <font name="Articulate">
       <files>
         <file bold="true" italic="false" />
-        <file bold="false" italic="false" />
-      </files>
-    </font>
-    <font name="Open Sans">
-      <files>
         <file bold="false" italic="false" />
       </files>
     </font>
